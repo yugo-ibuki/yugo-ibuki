@@ -3,9 +3,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,git,github)](https://skillicons.dev)
-
-  [![My Skills](https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,firebase,githubactions	)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,git,github,laravel,react,nextjs,nodejs,jest,firebase,githubactions,graphql,nestjs,docker,gcp&perline=8)](https://skillicons.dev)
 </p>
 
 <p align="left"> 
