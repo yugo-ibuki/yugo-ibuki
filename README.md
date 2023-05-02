@@ -3,14 +3,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,git,github,laravel,react,nextjs,nodejs,jest,firebase,githubactions,graphql,nestjs&perline=8)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,git,github,laravel,react,nextjs,nodejs,jest,firebase,githubactions,nestjs&perline=8)](https://skillicons.dev)
   
 </p>
 
 <h3 align="left">Learning: </h3>
 <p align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=docker,gcp,go)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=graphql,docker,gcp,go)](https://skillicons.dev)
   
 </p>
 
