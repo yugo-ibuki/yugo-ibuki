@@ -7,4 +7,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=yugo-ibuki&theme=onedark&column=4
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugo-ibuki&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugo-ibuki&size_weight=0.5&count_weight=0.5)
