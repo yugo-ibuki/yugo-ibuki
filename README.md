@@ -7,12 +7,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugo-ibuki&size_weight=0.5&count_weight=0.5)
 
 <div style="margin-top: 40px;">
-  <h3 align="left">Certifications:</h3>
-  <div align="left">
-    <img src="./public/certifications/ace.png" alt="AWS Certified Cloud Practitioner" width="100" />
-    <img src="./public/certifications/security.png" alt="AWS Certified Security - Specialty" width="100" />
-    <img src="./public/certifications/developer.png" alt="AWS Certified Developer - Associate" width="100" />
-    <img src="./public/certifications/architect.png" alt="AWS Certified Solutions Architect - Associate" width="100" />
-    <img src="./public/certifications/devops.png" alt="Google Cloud DevOps Engineer" width="100" />
-  </div>
+  <h3>Certifications:</h3>
+  <img src="./public/certifications/ace.png" alt="Google Cloud Associate Cloud Engineer" width="100" />
+  <img src="./public/certifications/security.png" alt="Google Cloud Professional Cloud Security Engineer" width="100" />
+  <img src="./public/certifications/developer.png" alt="Google Cloud Professional Cloud Developer" width="100" />
+  <img src="./public/certifications/architect.png" alt="Google Cloud Professional Cloud Architect" width="100" />
+  <img src="./public/certifications/devops.png" alt="Google Cloud Professional DevOps Engineer" width="100" />
 </div>
