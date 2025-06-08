@@ -12,10 +12,10 @@
 <div style="margin-top: 40px;">
   <h3 align="left">Certifications:</h3>
   <div align="left">
-    <img src="./public/certifications/security.png" alt="AWS Certified Security - Specialty" width="150" />
-    <img src="./public/certifications/developer.png" alt="AWS Certified Developer - Associate" width="150" />
-    <img src="./public/certifications/architect.png" alt="AWS Certified Solutions Architect - Associate" width="150" />
-    <img src="./public/certifications/ace.png" alt="AWS Certified Cloud Practitioner" width="150" />
-    <img src="./public/certifications/devops.png" alt="Google Cloud DevOps Engineer" width="150" />
+    <img src="./public/certifications/security.png" alt="AWS Certified Security - Specialty" width="100" />
+    <img src="./public/certifications/developer.png" alt="AWS Certified Developer - Associate" width="100" />
+    <img src="./public/certifications/architect.png" alt="AWS Certified Solutions Architect - Associate" width="100" />
+    <img src="./public/certifications/ace.png" alt="AWS Certified Cloud Practitioner" width="100" />
+    <img src="./public/certifications/devops.png" alt="Google Cloud DevOps Engineer" width="100" />
   </div>
 </div>
