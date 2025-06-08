@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,git,github,laravel,react,nextjs,nodejs,jest,firebase,githubactions,nestjs,graphql,docker,gcp,go,prisma,remix&perline=8)](https://skillicons.dev)
 
-<h3 align="left">AWS Certifications:</h3>
+<h3 align="left">Certifications:</h3>
 
 <div align="left">
   <img src="./public/certifications/security.png" alt="AWS Certified Security - Specialty" width="150" />
