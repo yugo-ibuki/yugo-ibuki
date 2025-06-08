@@ -1,8 +1,18 @@
-👋 Hi, I’m @yugo-ibuki
+👋 Hi, I'm @yugo-ibuki
 
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,git,github,laravel,react,nextjs,nodejs,jest,firebase,githubactions,nestjs,graphql,docker,gcp,go,prisma,remix&perline=8)](https://skillicons.dev)
+
+<h3 align="left">AWS Certifications:</h3>
+
+<div align="left">
+  <img src="./public/certifications/security.png" alt="AWS Certified Security - Specialty" width="150" />
+  <img src="./public/certifications/developer.png" alt="AWS Certified Developer - Associate" width="150" />
+  <img src="./public/certifications/architect.png" alt="AWS Certified Solutions Architect - Associate" width="150" />
+  <img src="./public/certifications/ace.png" alt="AWS Certified Cloud Practitioner" width="150" />
+  <img src="./public/certifications/devops.png" alt="AWS Certified Cloud Practitioner" width="150" />
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yugo-ibuki&theme=onedark&column=4
 )](https://github.com/ryo-ma/github-profile-trophy)
