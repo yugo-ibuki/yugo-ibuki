@@ -4,17 +4,18 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,git,github,laravel,react,nextjs,nodejs,jest,firebase,githubactions,nestjs,graphql,docker,gcp,go,prisma,remix&perline=8)](https://skillicons.dev)
 
-<h3 align="left">Certifications:</h3>
-
-<div align="left">
-  <img src="./public/certifications/security.png" alt="AWS Certified Security - Specialty" width="150" />
-  <img src="./public/certifications/developer.png" alt="AWS Certified Developer - Associate" width="150" />
-  <img src="./public/certifications/architect.png" alt="AWS Certified Solutions Architect - Associate" width="150" />
-  <img src="./public/certifications/ace.png" alt="AWS Certified Cloud Practitioner" width="150" />
-  <img src="./public/certifications/devops.png" alt="AWS Certified Cloud Practitioner" width="150" />
-</div>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=yugo-ibuki&theme=onedark&column=4
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugo-ibuki&size_weight=0.5&count_weight=0.5)
+
+<div style="margin-top: 40px;">
+  <h3 align="left">Certifications:</h3>
+  <div align="left">
+    <img src="./public/certifications/security.png" alt="AWS Certified Security - Specialty" width="150" />
+    <img src="./public/certifications/developer.png" alt="AWS Certified Developer - Associate" width="150" />
+    <img src="./public/certifications/architect.png" alt="AWS Certified Solutions Architect - Associate" width="150" />
+    <img src="./public/certifications/ace.png" alt="AWS Certified Cloud Practitioner" width="150" />
+    <img src="./public/certifications/devops.png" alt="Google Cloud DevOps Engineer" width="150" />
+  </div>
+</div>
