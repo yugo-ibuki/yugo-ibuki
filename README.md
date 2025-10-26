@@ -2,7 +2,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,git,github,laravel,react,nextjs,nodejs,jest,firebase,githubactions,nestjs,graphql,docker,gcp,go,prisma,remix&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,git,github,laravel,react,nextjs,nodejs,jest,firebase,githubactions,nestjs,graphql,docker,gcp,go,prisma,remix,terraform&perline=8)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugo-ibuki&size_weight=0.5&count_weight=0.5)
 
