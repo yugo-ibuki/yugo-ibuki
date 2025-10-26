@@ -1,8 +1,29 @@
 👋 Hi, I'm @yugo-ibuki
 
-<h3 align="left">Languages and Tools:</h3>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,git,github,laravel,react,nextjs,nodejs,jest,firebase,githubactions,nestjs,graphql,docker,gcp,go,prisma,remix,terraform&perline=8)](https://skillicons.dev)
+### Languages and Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,react,nextjs,nestjs,remix,express&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,go&perline=6)](https://skillicons.dev)
+
+</td>
+<td width="33%" valign="top">
+
+### Tools:
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,graphql,docker,prisma,terraform,figma,vim,neovim,notion,postgres,sentry,vite&perline=6)](https://skillicons.dev)
+
+</td>
+<td width="33%" valign="top">
+
+### Platforms:
+[![My Skills](https://skillicons.dev/icons?i=firebase,gcp,vercel&perline=6)](https://skillicons.dev)
+
+</td>
+</tr>
+</table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugo-ibuki&size_weight=0.5&count_weight=0.5)
 
